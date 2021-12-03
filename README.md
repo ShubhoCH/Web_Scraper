@@ -29,7 +29,7 @@
         >show dbs
         >use webData
         >show collections
-    ##### Three Collectio will apper go to the dataarticles collection:
+    ##### Three Collections will appear go to the dataarticles collection:
         > db.dataarticles.find().pretty()
     ##### This will show you all Title, Content & Links of each and every articles of the 3 section.
 - To populate the Database again make sure to delete the Current database and then once again run the project. 
